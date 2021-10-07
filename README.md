@@ -46,9 +46,14 @@ Please adhere to this project's `code of conduct.
 
 
   
-## Demo
+## Tech Stacks Used 
 
-- Demo
+- HTML5
+- CSS3
+- Bootstrap5
+- Vanilla JavaScript
+- vs code
+
 
   
 ## Feedback

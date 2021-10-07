@@ -41,7 +41,7 @@ Please adhere to this project's `code of conduct`.
 ## Screenshots
 
 ![Timer in progress](https://github.com/A-tiwarii/Mr-Pomodoro-Pomodoro-Timer-/blob/main/Screenshot%20(338).png)
-![timer end] (https://github.com/A-tiwarii/Mr-Pomodoro-Pomodoro-Timer-/blob/main/Screenshot%20(339).png)
+![timer end](https://github.com/A-tiwarii/Mr-Pomodoro-Pomodoro-Timer-/blob/main/Screenshot%20(339).png)
 
   
 
